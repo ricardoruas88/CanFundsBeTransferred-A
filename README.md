@@ -3,7 +3,7 @@ Exercicio HackRank
 URL para teste
 localhost:8080/bank
 
-Via get um unico caminho
+Via GET um unico caminho
 O A e o B são as rotas e q a quantidade maxima
 http://localhost:8080/bank?a=5&b=4&q=8
 
