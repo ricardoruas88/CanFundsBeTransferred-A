@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CanFundsBeTransferred-A
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ricardoruas
+Implementation-Vendor-Id: com.solucao
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CanFundsBeTransferred-A
+Created-By: Maven Integration for Eclipse
+
